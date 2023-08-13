@@ -7,7 +7,6 @@ public class Algo_1 {
     public static void main(String[] args) {
         System.out.print("Enter the number : ");
         int number = scanner.nextInt();
-        scanner.nextLine();
         final int FIRSTFIBNUM = 0;
         final int SECONDFIBNUM = 1;
         int previousNum =FIRSTFIBNUM;
